@@ -1,0 +1,3 @@
+﻿  main.c
+F:\vs2022 .program\after_class_exercise 18\after_class_exercise 18\main.c(31,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  after_class_exercise 18.vcxproj -> F:\vs2022 .program\after_class_exercise 18\x64\Debug\after_class_exercise 18.exe
