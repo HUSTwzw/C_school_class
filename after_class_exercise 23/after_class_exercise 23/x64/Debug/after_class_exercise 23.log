@@ -1,0 +1,4 @@
+﻿  main.c
+F:\VC2010.program\school_class的git仓库\C_school_class\after_class_exercise 23\after_class_exercise 23\main.c(18,2): warning C4013: “gets”未定义；假设外部返回 int
+F:\VC2010.program\school_class的git仓库\C_school_class\after_class_exercise 23\after_class_exercise 23\main.c(16,7): warning C4101: “ch”: 未引用的局部变量
+  after_class_exercise 23.vcxproj -> F:\VC2010.program\school_class的git仓库\C_school_class\after_class_exercise 23\x64\Debug\after_class_exercise 23.exe
