@@ -1,0 +1,10 @@
+﻿  main.c
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(10,2): warning C4013: “gets”未定义；假设外部返回 int
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(15,3): warning C4013: “exit”未定义；假设外部返回 int
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(36,10): warning C4047: “函数”:“const char *”与“char (*)[20]”的间接级别不同
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(36,10): warning C4024: “fputs”: 形参和实参 1 的类型不同
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(38,10): warning C4047: “函数”:“const char *”与“char (*)[20]”的间接级别不同
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(38,10): warning C4024: “fputs”: 形参和实参 1 的类型不同
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(40,10): warning C4047: “函数”:“const char *”与“char (*)[20]”的间接级别不同
+F:\vs2022 .program\after_class_exercise 25\after_class_exercise 25\main.c(40,10): warning C4024: “fputs”: 形参和实参 1 的类型不同
+  after_class_exercise 25.vcxproj -> F:\vs2022 .program\after_class_exercise 25\x64\Debug\after_class_exercise 25.exe
