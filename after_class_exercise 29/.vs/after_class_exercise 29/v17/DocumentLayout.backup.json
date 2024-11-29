@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VC2010.program\\school_class\u7684git\u4ED3\u5E93\\C_school_class\\after_class_exercise 29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E14E869-BCA3-421A-B396-C312AA95645F}|after_class_exercise 29\\after_class_exercise 29.vcxproj|F:\\VC2010.program\\school_class\u7684git\u4ED3\u5E93\\C_school_class\\after_class_exercise 29\\after_class_exercise 29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E14E869-BCA3-421A-B396-C312AA95645F}|after_class_exercise 29\\after_class_exercise 29.vcxproj|solutionrelative:after_class_exercise 29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "F:\\VC2010.program\\school_class\u7684git\u4ED3\u5E93\\C_school_class\\after_class_exercise 29\\after_class_exercise 29\\main.c",
+              "RelativeDocumentMoniker": "after_class_exercise 29\\main.c",
+              "ToolTip": "F:\\VC2010.program\\school_class\u7684git\u4ED3\u5E93\\C_school_class\\after_class_exercise 29\\after_class_exercise 29\\main.c",
+              "RelativeToolTip": "after_class_exercise 29\\main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-29T11:57:12.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
