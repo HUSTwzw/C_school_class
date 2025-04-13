@@ -147,7 +147,7 @@ void insert_sort3(int * array,int len)      //2-路插入排序(经过统计,时
 }
 
 
-void insert_sort4(int * array,int len)      //希尔排序
+void insert_sort4(int * array,int len)      //希尔排序,最原始的时间复杂度为O(n²),但是可以通过使用不同增量序列降低时间复杂度
 {
     for (int gap=len/2;gap>=1;gap/=2)       //确定间隔
     {
