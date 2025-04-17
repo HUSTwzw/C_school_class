@@ -57,7 +57,7 @@ void Quick_Sort(int * array,int left,int right)     //每次将第一个元素�
         {
             i++;
         }
-        array[j]=i;
+        array[j]=array[i];
     }
 
     array[i]=array[0];
